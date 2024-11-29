@@ -8,12 +8,12 @@
 <br><br>
 ## Table of Contents
 
-- [Crawler Framework](#CrawlerFramework) 
-- [WebUI Framework](#WebUIFramework)
+- [Crawler Framework](#Crawler-Framework) 
+- [WebUI Framework](#WebUI-Framework)
 - [Licenses](#Licenses)
 
 <br><br>
-## Crawler Framework
+## Crawler-Framework
 
 | Name | Website | Introduction | Star |
 | :-- | :-- | :-- | :-- |
@@ -27,7 +27,7 @@
 
 
 <br><br>
-## WebUI Framework
+## WebUI-Framework
 
 | Name | Website | Introduction | Star |
 | :-- | :-- | :-- | :-- |
