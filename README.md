@@ -13,6 +13,15 @@
 - [Licenses](#Licenses)
 
 <br><br>
+## LLM-Develop-Framework
+
+| Name | Website | Introduction | Star |
+| :-- | :-- | :-- | :-- |
+| LiteLLM | [LiteLLM](https://github.com/BerriAI/litellm) | LiteLLM is an open source LLM (Large Language Model) calling framework that aims to simplify the calling process of large language model APIs. It supports a variety of LLM services, including but not limited to OpenAI, Cohere, Anthropic, Ollama, Sagemaker, Hugging Face, Replicate, etc., with a total of more than 100. | [![GitHub Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)](https://github.com/BerriAI/litellm/stargazers) |
+| LitGPT | [LitGPT](https://github.com/Lightning-AI/litgpt) | LitGPT is a library for working with Large Language Models (LLMs), including development, fine-tuning, and deployment, supporting a variety of models. | [![GitHub Stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social)](https://github.com/Lightning-AI/litgpt/stargazers) |
+
+
+<br><br>
 ## Crawler-Framework
 
 | Name | Website | Introduction | Star |
